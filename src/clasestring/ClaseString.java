@@ -14,8 +14,6 @@ public class ClaseString {
    
     public static void main(String[] args) {
         
-        //Comentario inicio metodo main
-        
         String s = "iesmardealboran.com";
         
         // Tamaño de la cadena
